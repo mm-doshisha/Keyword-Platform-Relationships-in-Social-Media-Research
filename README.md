@@ -18,7 +18,6 @@ cd [repository-name]
 ```python
 import pandas as pd
 
-# For CSV files
 df = pd.read_csv('Keyword–Platform-Relationships-in-Social-Media-Research/dataset.csv')
 ```
 
