@@ -10,15 +10,15 @@ This dataset is proposed in "Keyword–Platform Relationships in Social Media Re
 
 ### Download
 ```bash
-git clone https://github.com/[username]/[repository-name].git
-cd [repository-name]
+git clone https://github.com/mm-doshisha/Keyword-Platform-Relationships-in-Social-Media-Research.git
+cd Keyword-Platform-Relationships-in-Social-Media-Research
 ```
 
 ### Data Loading Example
 ```python
 import pandas as pd
 
-df = pd.read_csv('Keyword–Platform-Relationships-in-Social-Media-Research/dataset.csv')
+df = pd.read_csv('dataset.csv')
 ```
 
 ## Usage Restrictions and Notes
